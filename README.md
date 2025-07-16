@@ -13,4 +13,14 @@ Built with Python and SQLite, the program has the following features:
 
 <strong> Use case:</strong> prototyping basic healthcare management software via the command line 
 
+<strong>Sample images from program:</strong>
+
+<caption>Adding patient</caption> <br>
+<img width="569" height="578" alt="Adding Patient" src="https://github.com/user-attachments/assets/2f391510-c26c-4a45-af07-2dd552bf57c2" /> <br>
+
+<caption>Viewing patients table</caption> <br>
+<img width="1666" height="334" alt="Patients Table" src="https://github.com/user-attachments/assets/82b88042-e480-47a5-af0b-548e7572178e" /> <br>
+
+<caption>Viewing procedures table</caption> <br>
+<img width="974" height="281" alt="Procedures Table" src="https://github.com/user-attachments/assets/21ee3a25-17cb-49f3-a14c-516619f52fbc" />
 
